@@ -17,8 +17,8 @@
 
 
 <div id="header" align="center">
-<!--   <img src="https://i.pinimg.com/originals/ef/5e/b6/ef5eb621bba282a76f7c850f4211b8e8.gif" width="150"/> -->
-<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI1ajJjamJna2ZkYzd2ZW5vM3lwZWoyZHpocnJkejd0cnpsZXFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGs93tRMsf2d6GCVRJ/giphy.gif" width="125"/>
-</div> -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBpb2hkMGZlNm54cWlsN3Y4d2Fjc3o5d2VmeWllazBwMXpsbDZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width="408"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI1ajJjamJua2ZkYzd2ZW5vM3lwZWoyZHpocnJkejd0cnpsZXFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGs93tRMsf2d6GCVRJ/giphy.gif" width="500"/>
+</div>
 
 ###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
