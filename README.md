@@ -20,8 +20,8 @@
 
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBpb2hkMGZlNm54cWlsN3Y4d2Fjc3o5d2VmeWllazBwMXpsbDZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width="204"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI1ajJjamJua2ZkYzd2ZW5vM3lwZWoyZHpocnJkejd0cnpsZXFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGs93tRMsf2d6GCVRJ/giphy.gif" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBpb2hkMGZlNm54cWlsN3Y4d2Fjc3o5d2VmeWllazBwMXpsbDZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DZ8k92zhbw5XGg5EL/giphy.gif" width="306"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI1ajJjamJua2ZkYzd2ZW5vM3lwZWoyZHpocnJkejd0cnpsZXFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGs93tRMsf2d6GCVRJ/giphy.gif" width="375"/>
 </div>
 
 ###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
