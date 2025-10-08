@@ -28,4 +28,4 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI1ajJjamJua2ZkYzd2ZW5vM3lwZWoyZHpocnJkejd0cnpsZXFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kGs93tRMsf2d6GCVRJ/giphy.gif" width="375"/>
 </div>
 
-###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
+###### Адрес электронной почты преподавателя: sa.32@mail.ru
