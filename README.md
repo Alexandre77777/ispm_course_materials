@@ -8,8 +8,11 @@
 [Статистика выполнения работ **ФГиИБ-2022-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/16y4igDGDjGtmPh7Hy1Uf_fAdXH2H2WPu5FQD_IpOh1M/edit?gid=1511254701#gid=1511254701)
 
 [Статистика выполнения работ **2025-ФГиИБ-ПИ-1м**](https://docs.google.com/spreadsheets/d/12dDKMAFfDtrMIfYAkLMc3LQvcc3UWzinmwzQcOIqOhU/edit?gid=369958090#gid=369958090)
+ㅤ
 
 
+ㅤ
+[**РУКОВОДСТВО ПО ФОРМИРОВАНИЮ ТЕМЫ ДИПЛОМНОГО ПРОЕКТА НА ОСНОВЕ АНАЛИЗА НАУЧНЫХ ПУБЛИКАЦИЙ**](https://colab.research.google.com/drive/1XshMP85My4cBueQIyTdFMWLg6YduyCeR?usp=sharing)
 
 | №   | Дата       | Ссылка на материалы с занятий                     | Фаза проекта |
 |-----|------------|--------------------------------------|--------------|
